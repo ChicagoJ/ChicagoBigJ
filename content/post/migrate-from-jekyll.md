@@ -1,7 +1,13 @@
 ---
 date: 2014-03-10
 linktitle: Migrating from Jekyll
+menu:
+  main:
+    parent: tutorials
+prev: /tutorials/mathjax
 title: Migrate to Hugo from Jekyll
+description: Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output.
+weight: 10
 ---
 
 ## Move static content to `static`
