@@ -48,19 +48,19 @@ hasCJKLanguage = true
 	home = ""
 	about = ""
 	blog  = ""
-	subscribe = ""
+	# subscribe = ""
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
 	readMore = ""
 	# copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I am so interesting."
+	# aboutAuthor = "I am so interesting."
 	tweet = ""
-	share = ""
+	# share = ""
 	# 404 page
-	title404 = ""
-	subtitle404 = ""
+	# title404 = ""
+	# subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
