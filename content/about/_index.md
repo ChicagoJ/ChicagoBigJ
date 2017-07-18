@@ -4,9 +4,9 @@ title = "About"
 hidden = true
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+Jin tian tian qi hen bu cuo. It's a good day.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Good good study, Day day up
 
 ***
 
