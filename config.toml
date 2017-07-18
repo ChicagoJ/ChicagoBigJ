@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://chicagoj.github.io/ChicagoBigJ/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
