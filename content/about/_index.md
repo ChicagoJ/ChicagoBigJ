@@ -1,7 +1,7 @@
 +++
 date = "2015-06-20T14:02:37+02:00"
 title = "About"
-hidden = true
+hidden = false
 +++
 
 Jin tian tian qi hen bu cuo. It's a good day.
