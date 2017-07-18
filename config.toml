@@ -13,7 +13,7 @@ disqusShortname = "spf13"
 [params]
 	name = "Junyi Peng"
 	description = "cao ni ma"
-	bio = "Cao ni ma means I love U"
+	bio = "Cao ni ma means I love U ?"
 	# Enter optionally your twitter account
 	twitter = "JoeyPeng"
 	enableRSS = true
