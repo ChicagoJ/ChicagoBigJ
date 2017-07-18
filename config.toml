@@ -53,7 +53,7 @@ hasCJKLanguage = true
 	olderPosts = ""
 	newerPosts = ""
 	readMore = ""
-	copyright = ""
+	copyright = "false"
 	# Sharing options and author information in posts
 	aboutAuthor = "I am so interesting."
 	tweet = ""
