@@ -5,11 +5,65 @@
     <link>https://chicagoj.github.io/ChicagoBigJ/tags/</link>
     <description>Recent content in Tags on ChicagoBigJ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
     
 	<atom:link href="https://chicagoj.github.io/ChicagoBigJ/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>https://chicagoj.github.io/ChicagoBigJ/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chicagoj.github.io/ChicagoBigJ/tags/themes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
