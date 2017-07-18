@@ -14,7 +14,7 @@ hasCJKLanguage = true
 	description = "Cao ni ma"
 	bio = "Cao ni ma means I love U"
 	# Enter optionally your twitter account
-	twitter = "your_twotter"
+	twitter = "weibo.com"
 	enableRSS = false
 
 	# Disqus comment
@@ -56,9 +56,9 @@ hasCJKLanguage = true
 	copyright = ""
 	# Sharing options and author information in posts
 	# aboutAuthor = "I am so interesting."
-	tweet = ""
+	tweet = "baidu.com"
 	 share = ""
-	 404 page
+	# 404 page
 	 title404 = ""
 	 subtitle404 = ""
 
