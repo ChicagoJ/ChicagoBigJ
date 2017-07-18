@@ -47,7 +47,7 @@ hasCJKLanguage = true
 	# Navigation links
 	home = ""
 	about = ""
-	archive = ""
+	blog  = ""
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
